@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on AndyGames_Dev</title>
+    <link>/contact/</link>
+    <description>Recent content in Contacts on AndyGames_Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>andygames531@gmail.com (AndyGames_Dev)</managingEditor>
+    <webMaster>andygames531@gmail.com (AndyGames_Dev)</webMaster><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>/contact/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andygames531@gmail.com (AndyGames_Dev)</author>
+      <guid>/contact/me/</guid>
+      <description>Use the link below to get my socials or to contact me Click Here For All Of My Social Links
+*I will be changing how this page looks
+or
+Click Here To Send Me An Email</description>
+    </item>
+    
+  </channel>
+</rss>

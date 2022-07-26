@@ -9,12 +9,13 @@
     <managingEditor>andygames531@gmail.com (AndyGames_Dev)</managingEditor>
     <webMaster>andygames531@gmail.com (AndyGames_Dev)</webMaster><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/projects/example/</link>
+      <title>My Projects</title>
+      <link>/projects/all/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andygames531@gmail.com (AndyGames_Dev)</author>
-      <guid>/projects/example/</guid>
-      <description></description>
+      <guid>/projects/all/</guid>
+      <description>Current Projects Salad for Linux The cryptominer made for gamers, Salad, has dropped support for Unix operating systems most likely because of the market share and because the name implies that its meant for gamers, most gamers use windows as an operating system
+but as compatibility layers such as Proton, Wine and all other community versions, gaming is becoming more and more possible on Unix systems. This project will either try to make the original Salad Project work or will recreate an entirely new app that utilizes their API (not entirely sure if im correct)</description>
     </item>
     
   </channel>

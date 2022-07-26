@@ -10,15 +10,15 @@
     <webMaster>andygames531@gmail.com (AndyGames_Dev)</webMaster><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about me</title>
-      <link>/about/example/</link>
+      <link>/about/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andygames531@gmail.com (AndyGames_Dev)</author>
-      <guid>/about/example/</guid>
+      <guid>/about/me/</guid>
       <description>About Me My name is AndyGames
 Not actually but for now, everyone on the internet (that will see me on the internet) will know me as AndyGames
 I am doing this not only for confidentiality purposes but also because&amp;hellip;
 IT SOUNDS COOL All my projects will be open source and on Github
-my games will be on steam or the Appstore and Google play store depending on what type of game I make</description>
+My games will be on steam or the Appstore and Google play store depending on what type of game I make</description>
     </item>
     
   </channel>
